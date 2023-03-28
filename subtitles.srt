@@ -1,0 +1,19 @@
+1
+00:00:00,210 --> 00:00:03,390
+These are the applications of the Salon of Blockchain in two minutes.
+
+2
+00:00:04,630 --> 00:00:10,330
+Money transfer, sending money to others on the Solana blockchain is cheaper and faster than using banks,
+
+3
+00:00:10,750 --> 00:00:12,670
+especially for international transfers.
+
+4
+00:00:13,600 --> 00:00:18,850
+Voting in an election, everyone can vote on the blockchain and because it's totally transparent and
+
+5
+00:00:18,850 --> 00:00:22,270
+immutable, everyone knows which candidates winning the No.
